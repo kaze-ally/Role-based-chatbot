@@ -113,6 +113,9 @@ See [`requirements.txt`](#requirements.txt) for all required libraries.
 ---
 
 ## screenshot of the streamlit ui:
+![Project Screenshot](Screenshot (92).png)
+
+
 
 
 
