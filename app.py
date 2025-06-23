@@ -1,6 +1,5 @@
 import streamlit as st
 from rag1 import initialize_components, return_docs,generate_answer, check_access,process_docs
-import time
 # Configure Streamlit page
 st.set_page_config(
     page_title="Role-Based Document Q&A System",
